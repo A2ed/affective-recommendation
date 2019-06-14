@@ -1,0 +1,23 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'recommendation/style.css' %}">
+
+<!-- templates/home.html -->
+<head>
+	<meta charset="UTF-8">
+</head>
+
+<body>	
+	{% load static %}
+	<img src="{% static 'recommendation/logo.png' %}" class="center" style="width:400px;height:280px;">
+	<h1>A nice scotch for when you're feeling {{ emotion }}</h1>
+	<h1>_______________</h1>
+	<h1>{{ rec1_name }}</h1>
+	<h1>{{ rec1_age }}</h1>
+	<h1>{{ rec1_sum }}</h1>
+	<h1>_______________</h1>
+</body>
+
+<div class="footer">
+	<p>Made with love ❤️...and scotch</p>
+</div>

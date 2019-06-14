@@ -1,0 +1,41 @@
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+body {
+    background: rgb(35, 35, 35);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+form {
+  margin:auto;
+}
+
+input {
+  background-color: #009688; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}

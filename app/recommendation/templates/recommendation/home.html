@@ -1,0 +1,17 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'recommendation/style.css' %}">
+
+
+<body>	
+	{% load static %}
+	<img src="{% static 'recommendation/logo.png' %}" class="center" style="width:400px;height:280px;">
+
+	<h1>How are you feeling today?</h1>
+
+	<form action="/recommendation/" method="post" style="text-align:center">
+	{% csrf_token %}
+	{{ form }}
+	<input type="submit" value="Scotch me">
+	</form>
+</body>
