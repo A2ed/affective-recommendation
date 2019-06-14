@@ -1,0 +1,508 @@
+,name,age
+0,Aberfeldy,12 Year Old
+1,Aberfeldy,16 Year Old
+2,Aberfeldy,21 Year Old
+3,Aberlour,10 Year Old
+4,Aberlour Double Cask Matured,12 Year Old
+5,Aberlour Double Cask Matured,16 Year Old
+6,Aberlour,18 Year Old
+7,Aberlour,18 Year Old
+8,Aberlour June Single Cask,23 Year Old
+9,Aberlour A'Bunadh, 
+10,Aberlour A'Bunadh, 
+11,Aberlour Casg Annamh, 
+12,Ailsa Bay Single Malt, 
+13,Annandale Man O’Sword, 
+14,Ardbeg,10 Year Old
+15,Ardbeg An Oa, 
+16,Ardbeg Corryvreckan, 
+17,Ardbeg Galileo, 
+18,Ardbeg Kelpie - Committee Release, 
+19,Ardbeg Perpetuum - Bicentenary Committee Release, 
+20,Ardbeg Supernova - Committee Release, 
+21,Ardbeg Uigeadail, 
+22,Ardmore,10 Year Old
+23,Ardmore,20 Year Old
+24,Ardmore Young Rebels Collection No.4,6 Year Old
+25,Ardmore - Berry Bros. & Rudd,8 Year Old
+26,Arran - Sauternes Cask Finish, 
+27,Arran,10 Year Old
+28,Arran,14 Year Old
+29,Arran,18 Year Old
+30,Arran - Old Malt Cask,18 Year Old
+31,Arran Machrie Moor Peated Cask Strength - Fourth Edition, 
+32,Arran Port Cask Finish, 
+33,Arran The Bothy Quarter Cask -, 
+34,Arran The Bothy Quarter Cask -, 
+35,Auchentoshan,12 Year Old
+36,Auchentoshan,18 Year Old
+37,Auchentoshan,21 Year Old
+38,Auchentoshan American Oak, 
+39,Auchentoshan Blood Oak, 
+40,Auchentoshan Classic, 
+41,Auchentoshan Heartwood 1l, 
+42,Auchentoshan The Bartender's Edition, 
+43,Auchentoshan Three Wood, 
+44,Auchroisk - Flora and Fauna,10 Year Old
+45,Auchroisk Managers Choice, 
+46,Auchroisk - Cask Strength Collection,26 Year Old
+47,Aultmore,12 Year Old
+48,Balblair 1st Release, 
+49,Balblair,21 Year Old
+50,Balblair Cask Collection,6 Year Old
+51,Ballechin - Straight From The Cask,13 Year Old
+52,Ballechin - Straight From The Cask,14 Year Old
+53,Balvenie Single Barrel - First Fill,12 Year Old
+54,Balvenie Triple Cask,12 Year Old
+55,Balvenie Caribbean Cask,14 Year Old
+56,Balvenie Single Barrel Sherry Cask,15 Year Old
+57,Balvenie Triple Cask,16 Year Old
+58,Balvenie Madeira Cask Finish,21 Year Old
+59,Balvenie PortWood Finish,21 Year Old
+60,Balvenie Single Barrel Traditional Oak,25 Year Old
+61,Balvenie Triple Cask,25 Year Old
+62,Balvenie,30 Year Old
+63,Balvenie DoubleWood,12 Year Old
+64,Balvenie DoubleWood,12 Year Old
+65,Balvenie DoubleWood,17 Year Old
+66,Balvenie Founders Reserve - Cognac Bottle 75cl, 
+67,Balvenie Peat Week Aged - Vintage,14 Year Old
+68,Beinn Dubh Flying Scotsman, 
+69,Beinn Dubh The Black, 
+70,Ben Nevis - The Single Malts of Scotland,20 Year Old
+71,Ben Nevis - Old Particular,21 Year Old
+72,BenRiach,10 Year Old
+73,BenRiach,20 Year Old
+74,BenRiach Moscatel Wood Finish,22 Year Old
+75,BenRiach Authenticus Peated,25 Year Old
+76,BenRiach Birnie Moss Intensely Peated, 
+77,BenRiach Curiositas,10 Year Old
+78,BenRiach Heart of Speyside, 
+79,BenRiach Peated Cask Strength -, 
+80,Benrinnes - Flora and Fauna,15 Year Old
+81,Benrinnes Single Cask,18 Year Old
+82,Benrinnes - Rare Select,24 Year Old
+83,Benromach,10 Year Old
+84,Benromach - 100° Proof,10 Year Old
+85,Benromach,15 Year Old
+86,Benromach Organic, 
+87,Benromach Triple Distilled, 
+88,Bladnoch Adela,15 Year Old
+89,Bladnoch Samsara, 
+90,Blair Athol - Signatory,10 Year Old
+91,Blair Athol - Flora and Fauna,12 Year Old
+92,Blair Athol,23 Year Old
+93,Blair Athol Cask Collection,8 Year Old
+94,Bowmore,12 Year Old
+95,Bowmore,15 Year Old
+96,Bowmore,18 Year Old
+97,Bowmore, 
+98,Bowmore,25 Year Old
+99,Bowmore - The Vintner's Trilogy,26 Year Old
+100,Bowmore Black Rock 1l, 
+101,Bowmore Legend, 
+102,Bowmore No.1, 
+103,Bowmore Springtide, 
+104,Bowmore Vault Edition - Atlantic Sea Salt, 
+105,Bruichladdich Black Art 6.1,26 Year Old
+106,Bruichladdich - The Laddie Eight,8 Year Old
+107,Bruichladdich Islay Barley, 
+108,Bruichladdich Octomore 02.1, 
+109,Bruichladdich Octomore 02.2 Orpheus, 
+110,Bruichladdich Octomore 06.1 Scottish Barley,5 Year Old
+111,Bruichladdich Scottish Barley - The Classic Laddie, 
+112,Bruichladdich The Organic, 
+113,Bunnahabhain,12 Year Old
+114,Bunnahabhain,18 Year Old
+115,Bunnahabhain,25 Year Old
+116,Bunnahabhain Cruach Mhòna, 
+117,Bunnahabhain Mòine, 
+118,Bunnahabhain Stiùireadair, 
+119,Bunnahabhain Toiteach a Dhà, 
+120,Bårelegs, 
+121,Caol Ila,12 Year Old
+122,Caol Ila Unpeated,15 Year Old
+123,Caol Ila,18 Year Old
+124,Caol Ila Unpeated,18 Year Old
+125,Caol Ila Moscatel Cask Finish - Distillers Edition, 
+126,Caol Ila,25 Year Old
+127,Caol Ila Cask Strength,34 Year Old
+128,Caol Ila Moch, 
+129,Cardhu,12 Year Old
+130,Cardhu,15 Year Old
+131,Cardhu,18 Year Old
+132,Cardhu Rare Malts,27 Year Old
+133,Cardhu Gold Reserve, 
+134,Cask Islay, 
+135,Clynelish,14 Year Old
+136,Clynelish Select Reserve, 
+137,Crabbie,30 Year Old
+138,Crabbie,8 Year Old
+139,Cragganmore,12 Year Old
+140,Cragganmore Port Wood Finish - Distillers Edition, 
+141,Craigellachie,13 Year Old
+142,Craigellachie,17 Year Old
+143,Croftengea - The Golden Cask,7 Year Old
+144,Dailuaine - Flora and Fauna,16 Year Old
+145,Dailuaine Small Batch,8 Year Old
+146,Dalmore,12 Year Old
+147,Dalmore,15 Year Old
+148,Dalmore,18 Year Old
+149,Dalmore Cigar Malt, 
+150,Dalmore King Alexander III, 
+151,Dalmore Luceo, 
+152,Dalmore Port Wood Reserve, 
+153,Dalwhinnie,15 Year Old
+154,Dalwhinnie Oloroso Cask Finish - Distillers Edition, 
+155,Dalwhinnie Winter's Gold, 
+156,Darkness! Cragganmore Fino Cask Finish,27 Year Old
+157,Deanston - Cask Strength Collection,11 Year Old
+158,Deanston,12 Year Old
+159,Deanston Organic,15 Year Old
+160,Deanston,18 Year Old
+161,Deanston Virgin Oak, 
+162,Douglas Laing Old Particular Double Pack, 
+163,Edradour,10 Year Old
+164,Edradour with 2x Glasses,10 Year Old
+165,Edradour Barolo Cask Finish 56.1%,16 Year Old
+166,Edradour Ballechin,10 Year Old
+167,Edradour Caledonia,12 Year Old
+168,Fettercairn Fior, 
+169,Finlaggan Cask Strength, 
+170,Finlaggan Eilean Mor, 
+171,Finlaggan Old Reserve, 
+172,Finlaggan Port Finish, 
+173,Finlaggan Sherry Finish, 
+174,Glen Deveron - Royal Burgh Collection,16 Year Old
+175,Glen Elgin,12 Year Old
+176,Glen Garioch,12 Year Old
+177,Glen Garioch 1797 Founder's Reserve, 
+178,Glen Garioch - Provenance,6 Year Old
+179,Glen Grant,10 Year Old
+180,Glen Grant,12 Year Old
+181,Glen Grant - Kingsbury,22 Year Old
+182,Glen Grant The Major's Reserve, 
+183,Glen Keith - Connoisseurs Choice, 
+184,Glen Keith Distillery Edition, 
+185,Glen Moray Chardonnay,10 Year Old
+186,Glen Moray - Elgin Heritage,12 Year Old
+187,Glen Moray - Elgin Heritage,15 Year Old
+188,Glen Moray - Elgin Heritage,18 Year Old
+189,Glen Moray Port Cask Finish,25 Year Old
+190,Glen Moray Classic Gift Pack with 2x Glasses, 
+191,Glen Moray Classic Peated, 
+192,Glen Moray Classic Port Cask Finish, 
+193,Glen Moray Classic Sherry Cask Finish, 
+194,Glen Moray Elgin Classic, 
+195,Glen Moray Port Cask Gift Pack with 2x Glasses, 
+196,Glen Parker Single Malt, 
+197,Glen Scotia Campbeltown Malts Festival,10 Year Old
+198,Glen Scotia,15 Year Old
+199,Glen Scotia,18 Year Old
+200,Glen Scotia,25 Year Old
+201,Glen Scotia Double Cask, 
+202,Glen Scotia Victoriana, 
+203,Glen Spey - Flora and Fauna,12 Year Old
+204,GlenAllachie Cask Strength -,10 Year Old
+205,GlenAllachie,12 Year Old
+206,GlenDronach Peated, 
+207,GlenWyvis Highland Inspiration, 
+208,Glenallachie Distillery Edition, 
+209,Glenburgie - Ballantine's,15 Year Old
+210,Glencadam,10 Year Old
+211,Glencadam - The Reawakening,13 Year Old
+212,Glencadam - Triple Cask Portwood Finish,17 Year Old
+213,Glencadam,19 Year Old
+214,Glencadam,21 Year Old
+215,Glencadam Origin 1825, 
+216,Glenfarclas,10 Year Old
+217,Glenfarclas,10 Year Old
+218,Glenfarclas 105, 
+219,Glenfarclas 1l,12 Year Old
+220,Glenfarclas,12 Year Old
+221,Glenfarclas,15 Year Old
+222,Glenfarclas,17 Year Old
+223,Glenfarclas,18 Year Old
+224,Glenfarclas - Drinks by the Dram, 
+225,Glenfarclas,21 Year Old
+226,Glenfarclas,25 Year Old
+227,Glenfarclas,30 Year Old
+228,Glenfarclas,8 Year Old
+229,Glenfarclas £511.19s.0d Family Reserve, 
+230,Glenfiddich,12 Year Old
+231,Glenfiddich,12 Year Old
+232,Glenfiddich 125th Anniversary Edition, 
+233,Glenfiddich Solera,15 Year Old
+234,Glenfiddich,18 Year Old
+235,Glenfiddich - Age of Discovery Bourbon Cask,19 Year Old
+236,Glenfiddich Age of Discovery Maderia Cask Finish,19 Year Old
+237,Glenfiddich Caribbean Rum Cask,21 Year Old
+238,Glenfiddich Reserva Rum Cask Finish,21 Year Old
+239,Glenfiddich,30 Year Old
+240,Glenfiddich,30 Year Old
+241,Glenfiddich Excellence,26 Year Old
+242,Glenfiddich Experimental Series - IPA Cask Finish, 
+243,Glenfiddich Experimental Series - Project XX, 
+244,Glenfiddich Malt Master's Edition - Sherry Cask Finish, 
+245,Glenfiddich Reserve Cask 1l, 
+246,Glenfiddich Special Old Reserve -s, 
+247,Glenfiddich The Original, 
+248,Glenglassaugh Evolution 50%, 
+249,Glenglassaugh Pedro Ximenéz Sherry Wood Finish, 
+250,Glenglassaugh Revival, 
+251,Glenglassaugh Torfa, 
+252,Glengoyne,10 Year Old
+253,Glengoyne,12 Year Old
+254,Glengoyne,15 Year Old
+255,Glengoyne,18 Year Old
+256,Glengoyne,21 Year Old
+257,Glengoyne,30 Year Old
+258,Glengoyne Hepburn's Choice,8 Year Old
+259,Glenkinchie,12 Year Old
+260,Glenkinchie,24 Year Old
+261,Glenmorangie - The Original,10 Year Old
+262,Glenmorangie - The Original 1.5l,10 Year Old
+263,Glenmorangie - The Original 35cl,10 Year Old
+264,Glenmorangie Extremely Rare,18 Year Old
+265,Glenmorangie Astar Release, 
+266,Glenmorangie Dornoch, 
+267,Glenmorangie Lasanta,12 Year Old
+268,Glenmorangie Millennium Malt, 
+269,Glenmorangie Nectar D'Or -,12 Year Old
+270,Glenmorangie Signet, 
+271,Glenmorangie Spìos Private Edition, 
+272,Glenmorangie The Duthac, 
+273,Glenmorangie The Quinta Ruban,12 Year Old
+274,Glenmorangie The Tarlogan, 
+275,Glenmorangie The Tayne, 
+276,Glenrothes Peated Cask Reserve, 
+277,Glenrothes Sherry Cask Reserve, 
+278,Glentauchers,17 Year Old
+279,Glentauchers - Chorlton Whisky,20 Year Old
+280,Hamiltons Islay Single Malt Scotch Whisky, 
+281,Hamiltons Lowland Single Malt Scotch Whisky, 
+282,Hamiltons Speyside Single Malt Scotch Whisky, 
+283,Hazelburn,10 Year Old
+284,Highland Park - Viking Scars,10 Year Old
+285,Highland Park - Viking Honour,12 Year Old
+286,Highland Park - The Dark,17 Year Old
+287,Highland Park - Viking Pride,18 Year Old
+288,Highland Park - Rare Select, 
+289,Highland Park 45.7%,25 Year Old
+290,Highland Park - Whisky is Class...ical,28 Year Old
+291,Highland Park Einar, 
+292,Highland Park Fire Edition,15 Year Old
+293,Highland Park Harald, 
+294,Highland Park Ragnvald, 
+295,Highland Park Sigurd, 
+296,Highland Park Svein, 
+297,Highland Park The Dolphins, 
+298,Highland Park Valkyrie, 
+299,Highland Park Voyage Of The Raven, 
+300,Inchgower - Flora and Fauna,14 Year Old
+301,Inchmoan,12 Year Old
+302,Inchmurrin,12 Year Old
+303,Inchmurrin,18 Year Old
+304,Inchmurrin Madeira Wood Finish, 
+305,Irish Single Malt #1,13 Year Old
+306,Islay 55% - Spirit & Cask Range, 
+307,Islay - Single Minded,6 Year Old
+308,Islay Storm, 
+309,Isle Of Jura Journey, 
+310,Isle Of Jura Seven Wood, 
+311,Isle of Jura,10 Year Old
+312,Isle of Jura,16 Year Old
+313,Isle of Jura,21 Year Old
+314,Jura One and All, 
+315,Kilchoman,8 Year Old
+316,Kilchoman Machir Bay, 
+317,Kilchoman Machir Bay Gift Pack with 2x Glasses, 
+318,Kilchoman Sanaig, 
+319,Kilchoman Winter Release, 
+320,Kilkerran,12 Year Old
+321,Knockando Slow Matured,18 Year Old
+322,Lagavulin,16 Year Old
+323,Lagavulin Pedro Ximénez Cask Finish - Distillers Edition, 
+324,Lagavulin,8 Year Old
+325,Lagavulin - 200th Anniversary Edition,8 Year Old
+326,Lagavulin Triple Matured Edition, 
+327,Laphroaig,10 Year Old
+328,Laphroaig,10 Year Old
+329,Laphroaig,25 Year Old
+330,Laphroaig,27 Year Old
+331,Laphroaig An Cuan Mòr, 
+332,Laphroaig Brodir, 
+333,Laphroaig Four Oak 1L, 
+334,Laphroaig Lore, 
+335,Laphroaig PX Cask Triple Matured, 
+336,Laphroaig Quarter Cask, 
+337,Laphroaig Select, 
+338,Laphroaig The 1815 Legacy Edition, 
+339,Laphroaig Triple Wood, 
+340,Ledaig,10 Year Old
+341,Ledaig,18 Year Old
+342,Ledaig,18 Year Old
+343,Linkwood - Flora and Fauna,12 Year Old
+344,Lismore,12 Year Old
+345,Lismore,21 Year Old
+346,Lismore,8 Year Old
+347,Loch Lomond,12 Year Old
+348,Loch Lomond,18 Year Old
+349,Loch Lomond Original, 
+350,Longmorn Distiller's Choice, 
+351,Longrow,18 Year Old
+352,Longrow Peated, 
+353,Macallan - Mackillop's Choice,19 Year Old
+354,Macleod's Highland Single Malt, 
+355,Macleod's Islay Single Malt, 
+356,Mannochmore - Flora and Fauna,12 Year Old
+357,Miltonduff - Discovery,10 Year Old
+358,Mortlach,22 Year Old
+359,Mortlach - Mackillop's Choice,23 Year Old
+360,Mortlach,25 Year Old
+361,Mortlach,27 Year Old
+362,Mortlach - Cask Strength Collection,9 Year Old
+363,Mortlach Rare Old, 
+364,Mortlach Special Strength, 
+365,Oban,14 Year Old
+366,Oban Little Bay, 
+367,Octomore Masterclass_08.1,8 Year Old
+368,Old Ballantruan 'The Peated Malt', 
+369,Old Pulteney,17 Year Old
+370,Old Pulteney,18 Year Old
+371,Old Pulteney Vintage, 
+372,Old Pulteney,25 Year Old
+373,Old Pulteney Navigator, 
+374,Peat's Beast, 
+375,Peat's Beast Cask Strength, 
+376,Port Askaig 100° Proof, 
+377,Port Askaig,8 Year Old
+378,Port Charlotte,10 Year Old
+379,Port Charlotte Single Cask,6 Year Old
+380,Port Charlotte PC12 Oilenach Furachail, 
+381,Port Charlotte PC6, 
+382,Port Charlotte PC7, 
+383,Port Charlotte PC8, 
+384,Port Charlotte PC9, 
+385,Raasay While We Wait - Third Release, 
+386,Riverflow, 
+387,Robert Burns Single Malt, 
+388,Royal Brackla,12 Year Old
+389,Royal Brackla,16 Year Old
+390,Royal Lochnagar,12 Year Old
+391,SPEY,18 Year Old
+392,SPEY Chairman’s Choice, 
+393,SPEY Royal Choice, 
+394,SPEY Tenné, 
+395,SPEY Trutina, 
+396,Scapa Glansa, 
+397,Scapa Skiren, 
+398,Secret Distillery #1 -,9 Year Old
+399,Singleton of Dufftown,12 Year Old
+400,Singleton of Dufftown,15 Year Old
+401,Singleton of Dufftown,18 Year Old
+402,Singleton of Dufftown Spey Cascade, 
+403,Singleton of Dufftown Sunray, 
+404,Singleton of Dufftown Tailfire, 
+405,Smokehead, 
+406,Smokehead High Voltage, 
+407,Speyburn,10 Year Old
+408,Speyburn,15 Year Old
+409,Speyburn Bradan Orach, 
+410,Speyside - Single Minded,15 Year Old
+411,Springbank,10 Year Old
+412,Springbank,15 Year Old
+413,Springbank,21 Year Old
+414,Strathisla,12 Year Old
+415,Strathmill - Flora and Fauna,12 Year Old
+416,Strathmill,25 Year Old
+417,Stronachie,10 Year Old
+418,Talisker,10 Year Old
+419,Talisker,18 Year Old
+420,Talisker Amoroso Cask Finish - Distillers Edition, 
+421,Talisker,25 Year Old
+422,Talisker,30 Year Old
+423,Talisker 57° North, 
+424,Talisker Dark Storm 1l, 
+425,Talisker Neist Point, 
+426,Talisker Port Ruighe, 
+427,Talisker Skye, 
+428,Talisker Storm, 
+429,Tamdhu,10 Year Old
+430,Tamdhu Batch Strength, 
+431,Tamnavulin Double Cask, 
+432,Teaninich - Flora and Fauna,10 Year Old
+433,Teaninich - Old Particular,18 Year Old
+434,The Ardmore Legacy, 
+435,The Big Strand, 
+436,The Deveron,12 Year Old
+437,The GlenDronach,12 Year Old
+438,The GlenDronach Allardice,18 Year Old
+439,The GlenDronach - Parliament,21 Year Old
+440,The GlenDronach - Grandeur,24 Year Old
+441,The GlenDronach The Hielan',8 Year Old
+442,The GlenDronach Cask Strength -, 
+443,The Glenlivet French Oak Reserve,15 Year Old
+444,The Glenlivet,18 Year Old
+445,The Glenlivet Captain's Reserve, 
+446,The Glenlivet Founder's Reserve, 
+447,The Glenlivet Master Distiller's Reserve, 
+448,The Glenlivet Master Distiller's Reserve - Solera Vatted, 
+449,The Glenlivet Nàdurra First Fill Selection Batch FF0717, 
+450,The Glenlivet XXV, 
+451,The Glenrothes Bourbon Cask Reserve, 
+452,The Glenrothes Bourbon Cask Reserve Gift Pack with 2x Glasses, 
+453,The Glenrothes Vintage Reserve, 
+454,The Ileach Cask Strength, 
+455,The Ileach Peaty, 
+456,The Macallan Sherry Oak,10 Year Old
+457,The Macallan Double Cask,12 Year Old
+458,The Macallan Fine Oak,12 Year Old
+459,The Macallan Sherry Oak,12 Year Old
+460,The Macallan Triple Cask,12 Year Old
+461,The Macallan Amber - 1824 Series, 
+462,The Macallan Estate Reserve, 
+463,The Macallan Lumina, 
+464,The Macallan Quest, 
+465,The Macallan Rare Cask, 
+466,The Macallan Select Oak 1l, 
+467,The Macallan Whisky Maker's Edition, 
+468,The Singleton Of Glendullan Double Matured, 
+469,The Singleton Of Glendullan Master's Art, 
+470,Tobermory - Old Particular,21 Year Old
+471,Tomatin,12 Year Old
+472,Tomatin Port Wood Finish,14 Year Old
+473,Tomatin Sherry Cask,18 Year Old
+474,Tomatin Contrast, 
+475,Tomatin Cù Bòcan, 
+476,Tomatin Cù Bòcan Bourbon Cask, 
+477,Tomatin Five Virtues - Earth, 
+478,Tomatin Five Virtues - Metal, 
+479,Tomatin Five Virtues - Water, 
+480,Tomatin Legacy, 
+481,Tomintoul,10 Year Old
+482,Tomintoul,10 Year Old
+483,Tomintoul Oloroso Sherry Cask,12 Year Old
+484,Tomintoul,14 Year Old
+485,Tomintoul Portwood Finish,15 Year Old
+486,Tomintoul,16 Year Old
+487,Tomintoul,16 Year Old
+488,Tomintoul Single Cask,19 Year Old
+489,Tomintoul Tlàth, 
+490,Tomintoul with a Peaty Tang, 
+491,Tullibardine 225 Sauternes Cask Finish, 
+492,Tullibardine 228 Burgundy Cask Finish, 
+493,Tullibardine,25 Year Old
+494,Tullibardine 500 Sherry Cask Finish, 
+495,Tullibardine Sovereign, 
+496,Wolfburn Aurora Single Malt, 
+497,Wolfburn, 
+498,Wolfburn Morven Single Malt, 
+499,Wolfburn Northland Single Malt, 
+500,anCnoc,12 Year Old
+501,anCnoc,18 Year Old
+502,anCnoc,24 Year Old
+503,anCnoc Barrow, 
+504,anCnoc Peatheart, 
+505,anCnoc Rascan, 
+506,anCnoc Stack, 
