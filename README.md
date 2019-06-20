@@ -1,5 +1,9 @@
 # Affective recommendation: generating product recommendations based on emotional states
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # Synopsis
 
 This project develops a recommendation engine using of the most central, but often overlooked, determinants of decision making: affective reasoning. It operates by querying a person's emotional state and using a deep learning model to identify products similar to that state. This differs from conventional recommendation engines that rely on demographic information and historic purchase trends, and aims to recontextualize the buying process from acquisition of a particular product to the generation of a particular experience.
